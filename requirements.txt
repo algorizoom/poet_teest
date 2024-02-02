@@ -1,0 +1,7 @@
+#requirement.txt 파일 만들고 설치한 패키지 기록
+langchain
+regex
+tiktoken
+openai
+langchain-opena
+streamlit
