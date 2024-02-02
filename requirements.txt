@@ -3,5 +3,5 @@ langchain
 regex
 tiktoken
 openai
-langchain-opena
+langchain-openai
 streamlit
